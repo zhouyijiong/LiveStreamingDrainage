@@ -1,0 +1,2 @@
+chromeDriverPath:{C:/spider/chromedriver.exe}//驱动地址,绝对路径
+downloadSpeed:{10}//下载速度单位MB,下载速度再快也没用,直播流上传速度没那么快
